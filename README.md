@@ -109,8 +109,4 @@ Created a separate `toggle.php` file to update the value and redirect back to th
 - Search users
 - Improve UI using CSS and Bootstrap
 
----
-
-## Author
-
-Sara
+-
