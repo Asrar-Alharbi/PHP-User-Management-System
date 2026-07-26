@@ -26,14 +26,11 @@ A simple web application built with **HTML**, **PHP**, and **MySQL** that allows
 
 ## Project Structure
 
-```
 Project/
 │── f.html          # User input form
 │── n.php           # Insert and display data
 │── toggle.php      # Toggle user status
-```
 
----
 
 ## Database Structure
 
