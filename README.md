@@ -52,6 +52,11 @@ Table: `User`
 
 ## Screenshots
 
+## Home Page
+
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/b291672b-8bc3-4015-96d8-0ad39b28e10e" />
+
+
 ### Database
 
 <img width="200" height="200" alt="Database Screenshot" src="https://github.com/user-attachments/assets/0f7ab7af-073c-496c-97f3-0f186ec2fde2" />
