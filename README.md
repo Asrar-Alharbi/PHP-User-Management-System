@@ -70,7 +70,7 @@ Table: `User`
 
 <img width="200" height="200" alt="User Table Screenshot" src="https://github.com/user-attachments/assets/61b6149c-f315-46df-b7f6-7abd94a5efd7" />
 
----
+
 
 ## Challenges
 
